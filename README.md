@@ -5,6 +5,7 @@ pip3 install grpcio grpcio-tools protobuf
 
 ## Attack
 python3 stealth_proxy.py 8080
+
 python3 unhiddify_poc.py <target_host> <target_port>
 
 <img width="2536" height="626" alt="1" src="https://github.com/user-attachments/assets/4931c1bf-a3ea-46e0-8558-8c9fabb5e0d7" />
