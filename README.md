@@ -1,5 +1,6 @@
 # UNHIDDIFY
-
+## Versions
+tested on v4.1.0 hiddify-core
 ## Install
 pip3 install grpcio grpcio-tools protobuf
 
